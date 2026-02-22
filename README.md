@@ -4,6 +4,8 @@ Spin up your own mini enterprise IT environment — all from a single machine.
 
 This beginner-friendly lab walks you through installing and configuring Active Directory, DNS, DHCP, Group Policy, and more using VMware Workstation Pro. No prior Virtual Machine or Active Directory experience needed.
 ![Architecture of AD](images/ArchitectureAD.png)
+=======
+![Active Directory Architecture Diagram](<Screenshot 2026-02-22 044254.png>)
 ---
 
 ##   What This Lab Includes
